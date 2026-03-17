@@ -61,6 +61,7 @@ To design a Bluetooth-based password authentication system using the STM32F411VE
 * Negative → GND
 
 
+![WhatsApp Image 2026-03-17 at 10 32 57 AM](https://github.com/user-attachments/assets/a459ae5a-f55a-4665-bb18-a08c71c57116)
 
 
 ## References
